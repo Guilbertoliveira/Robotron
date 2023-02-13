@@ -1,0 +1,14 @@
+@import url('css/fundo.css');
+@import url('css/interface.css');
+@import url('css/statics.css');
+
+
+:root {
+    --main-cinza: #CCCCCC;
+    --main-branco: #FFFFFF;
+    --main-preto: #000000;
+}
+
+* {
+    box-sizing: border-box;
+}
