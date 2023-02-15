@@ -1,8 +1,11 @@
 
 <h1 align="center"> robotron 2000 </h1>
-
+<div align="center">
+<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Guilbertoliveira/Robotron" />
+<img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Guilbertoliveira/Robotron" />
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Guilbertoliveira/Robotron" />
+<img alt="Github License" src="https://img.shields.io/github/license/Guilbertoliveira/Robotron" /></div>
 <h2 id="status-do-projeto">:hammer:Project Status:hammer:</h2>
-
 <h2 id="descricao-projeto">Project description</h2>
 
 <h2 id="versaomobile">Version Mobile</h2>
