@@ -1,6 +1,7 @@
 
-<h1 align="center"> robotron 2000 </h1>
 <div align="center">
+<img src="https://raw.githubusercontent.com/Guilbertoliveira/Robotron/main/img/favicon.ico">
+<h1> robotron 2000 </h1>
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Guilbertoliveira/Robotron" />
 <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Guilbertoliveira/Robotron" />
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Guilbertoliveira/Robotron" />
