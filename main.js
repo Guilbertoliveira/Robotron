@@ -1,10 +1,15 @@
 
-function subtrairElemento(elemento) {
-    return elemento.value = parseInt(elemento.value) - 1;
-}
+function manipulaDados(operacao, elemento){
 
-function somarElemento(elemento) {
-    return elemento.value = parseInt(elemento.value) + 1;
+    if(operacao === 'subtrair'){
+        elemento.value = elemento.value = parseInt(elemento.value) - 1;
+
+    }
+    if (operacao === 'somar')
+    {
+        elemento.value = elemento.value = parseInt(elemento.value) + 1;
+    }
+
 }
 
 const subtrair = document.getElementById('subtrair');
@@ -13,9 +18,11 @@ const braco = document.getElementById('braco');
 
 
 somar.addEventListener('click', ()=>{
-    braco.value = somarElemento(braco);
+     manipulaDados('somar', braco);
 })
 
 subtrair.addEventListener('click', ()=> {
-    braco.value = subtrairElemento(braco);
+    manipulaDados('subtrair', braco);
 })
+
+
