@@ -11,8 +11,7 @@
 <h2 id="descricao-projeto">Project description</h2>
 
 <h2 id="versaomobile">Version Mobile</h2>
-
-<h2>Version Tablet</h2>
+<img src="https://user-images.githubusercontent.com/41201436/219467625-b6e40ded-6b75-41a1-95cd-0e56071ff322.gif" alt="this slowpoke moves"  width="250" />
 
 <h2>Version Desktop</h2>
 
