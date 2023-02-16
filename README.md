@@ -17,6 +17,10 @@
 <h2>Version Desktop</h2>
 
 <h2>Technologies used</h2>
-    
+<p>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="55" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="55"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="55"/> 
+</p>
 <h2> Project link </h2>
 <a href="https://robotron-vert-five.vercel.app/">Vercel Link</a>
