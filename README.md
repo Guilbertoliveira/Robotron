@@ -7,6 +7,7 @@
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Guilbertoliveira/Robotron" />
 <img alt="Github License" src="https://img.shields.io/github/license/Guilbertoliveira/Robotron" /></div>
 <h2 id="status-do-projeto">:hammer:Project Status:hammer:</h2>
+<p>Project under development</p>
 <h2 id="descricao-projeto">Project description</h2>
 
 <h2 id="versaomobile">Version Mobile</h2>
@@ -17,6 +18,5 @@
 
 <h2>Technologies used</h2>
     
-<h2> Figma used designer </h2>
-
 <h2> Project link </h2>
+<a href="https://robotron-vert-five.vercel.app/">Vercel Link</a>
