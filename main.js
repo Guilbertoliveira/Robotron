@@ -1,37 +1,29 @@
+const controle = document.querySelectorAll('.controle-ajuste');
 
-function manipulaDados(operacao, elemento){
+
+function manipulaDados(operacao, controle){
+    const peca = controle.querySelector(".controle-contador");
 
     if(operacao === '-'){
-        elemento.value = elemento.value = parseInt(elemento.value) - 1;
+        peca.value = peca.value = parseInt(peca.value) - 1;
 
     }
     if (operacao === '+')
     {
-        elemento.value = elemento.value = parseInt(elemento.value) + 1;
+        peca.value = peca.value = parseInt(peca.value) + 1;
     }
 
 }
 
-const subtrair = document.getElementById('subtrair');
-const somar = document.getElementById('somar');
-const braco = document.getElementById('braco');
-const controle = document.querySelectorAll('.controle-ajuste');
-
-
 controle.forEach((elemento)=>{
     elemento.addEventListener("click", (evento) => {
-        manipulaDados(evento.target.textContent, );
+        manipulaDados(evento.target.textContent, evento.target.parentNode);
+        console.log(evento.target.textContent, evento.target.parentNode);
+        
     });
-})
+});
 
 
 
-somar.addEventListener('click', ()=>{
-     manipulaDados('+', braco);
-})
-
-subtrair.addEventListener('click', ()=> {
-    manipulaDados('-', braco);
-})
 
 
