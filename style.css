@@ -12,3 +12,13 @@
 * {
     box-sizing: border-box;
 }
+
+.esconde {
+    background-color: red;
+    display: none;
+}
+
+.aparece {
+    display: block;
+    background-color: blue;
+}
